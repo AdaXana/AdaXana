@@ -5,7 +5,7 @@
 > *"Transformo datos en decisiones con impacto."*
 
 📍 Barcelona, España 🇪🇸  
-🎓 Egresada del bootcamp de análisis de datos en Hack A Boss  
+🎓 Finalicé el bootcamp de análisis de datos en Hack A Boss  
 💡 Actualmente ampliando mis conocimientos en bases de datos relacionales y Java (Ironhack)
 
 <br>
@@ -30,7 +30,8 @@
 
 | 📊 **Análisis y Visualización** | 🐍 **Lenguajes y Librerías** | 🛢️ **Bases de Datos** | 🔧 **Herramientas** |
 |:-------------------------------:|:-----------------------------:|:----------------------:|:--------------------:|
-| ![Power BI](https://skillicons.dev/icons?i=powerbi&theme=light) ![Excel](https://skillicons.dev/icons?i=excel&theme=light) ![Streamlit](https://skillicons.dev/icons?i=streamlit&theme=light) | ![Python](https://skillicons.dev/icons?i=python&theme=light) ![R](https://skillicons.dev/icons?i=r&theme=light) ![sql](https://skillicons.dev/icons?i=mysql&theme=light) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black) | ![MySQL](https://skillicons.dev/icons?i=mysql&theme=light) ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light) | ![Jupyter](https://skillicons.dev/icons?i=jupyter&theme=light) ![Vscode](https://skillicons.dev/icons?i=vscode&theme=light) ![Git](https://skillicons.dev/icons?i=git&theme=light) ![Github](https://skillicons.dev/icons?i=github&theme=light) |
+| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) | ![Python](https://skillicons.dev/icons?i=python) ![R](https://skillicons.dev/icons?i=r) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black) | ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![VSCode](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white) |
+
 
 ---
 
@@ -38,8 +39,18 @@
 
 [![PFB Yahoo Finance](https://github-readme-stats.vercel.app/api/pin/?username=1991Elsa&repo=PFB&theme=default&hide_border=true&description_lines_count=2)](https://github.com/1991Elsa/PFB)
 
-> Análisis financiero de empresas del **Nasdaq 100**. Incluye scraping, almacenamiento de datos en MySQL, análisis con clustering y visualización interactiva con Streamlit y Power BI.  
-> Proyecto final del bootcamp desarrollado en equipo.
+📊 **PFB Yahoo Finance** — *Análisis financiero aplicado al índice Nasdaq 100*  
+Desarrollamos una solución de análisis financiero en equipo, con enfoque en el procesamiento, segmentación y visualización de datos bursátiles. El proyecto incluye:
+
+- 🗂️ Web scraping y consumo de API de Yahoo Finance para la obtención de datos
+- 🛢️ Almacenamiento estructurado en base de datos MySQL
+- 🧠 Segmentación de empresas mediante clustering
+- 📊 Visualización de insights clave con **Streamlit** y un informe en **Power BI**
+
+🔧 Tecnologías: Python, Selenium, BeautifulSoup, MySQL, Scikit-learn, Power BI, Streamlit
+
+> Proyecto final del bootcamp de análisis de datos en **Hack A Boss**
+
 
 ---
 
