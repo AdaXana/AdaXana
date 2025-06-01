@@ -28,9 +28,9 @@
 
 ## 🧰 Tech Stack
 
-| 📊 **Análisis y Visualización**                                        | 🐍 **Lenguajes y Librerías**                                                     | 🛢️ **Bases de Datos**                      | 🔧 **Herramientas**                             |
-|:----------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|:-------------------------------------------:|:----------------------------------------------:|
-| Power BI, Excel, Streamlit                                             | Python, R, SQL, Pandas, NumPy, Matplotlib, Scikit-learn, SQLAlchemy              | MySQL, MongoDB                              | Jupyter, VSCode, Git, GitHub, Notion, Confluence |
+| 📊 **Análisis y Visualización** | 🐍 **Lenguajes y Librerías** | 🛢️ **Bases de Datos** | 🔧 **Herramientas** |
+|:-------------------------------:|:-----------------------------:|:----------------------:|:--------------------:|
+| ![Power BI](https://skillicons.dev/icons?i=powerbi&theme=light) ![Excel](https://skillicons.dev/icons?i=excel&theme=light) ![Streamlit](https://skillicons.dev/icons?i=streamlit&theme=light) | ![Python](https://skillicons.dev/icons?i=python&theme=light) ![R](https://skillicons.dev/icons?i=r&theme=light) ![sql](https://skillicons.dev/icons?i=mysql&theme=light) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black) | ![MySQL](https://skillicons.dev/icons?i=mysql&theme=light) ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light) | ![Jupyter](https://skillicons.dev/icons?i=jupyter&theme=light) ![Vscode](https://skillicons.dev/icons?i=vscode&theme=light) ![Git](https://skillicons.dev/icons?i=git&theme=light) ![Github](https://skillicons.dev/icons?i=github&theme=light) |
 
 ---
 
