@@ -6,7 +6,7 @@
 
 📍 Barcelona, España 🇪🇸  
 🎓 Finalicé el bootcamp de análisis de datos en Hack A Boss  
-💡 Actualmente ampliando mis conocimientos en bases de datos relacionales y Java (Ironhack)
+💡 Actualmente ampliando mis conocimientos en BBDD-R y POO con Java.
 
 <br>
 
@@ -40,7 +40,8 @@
 [![PFB Yahoo Finance](https://github-readme-stats.vercel.app/api/pin/?username=1991Elsa&repo=PFB&theme=default&hide_border=true&description_lines_count=2)](https://github.com/1991Elsa/PFB)
 
 📊 **PFB Yahoo Finance** — *Análisis financiero aplicado al índice Nasdaq 100*  
-Desarrollamos una solución de análisis financiero en equipo, con enfoque en el procesamiento, segmentación y visualización de datos bursátiles. El proyecto incluye:
+Desarrollamos una solución de análisis financiero en equipo, con enfoque en el procesamiento, segmentación y visualización de datos bursátiles.
+El proyecto incluye:
 
 - 🗂️ Web scraping y consumo de API de Yahoo Finance para la obtención de datos
 - 🛢️ Almacenamiento estructurado en base de datos MySQL
@@ -63,4 +64,4 @@ Desarrollamos una solución de análisis financiero en equipo, con enfoque en el
 
 ---
 
-✨ *En búsqueda de una primera oportunidad profesional como analista de datos. Sigo formándome activamente en desarrollo backend y bases de datos.*
+✨ *En búsqueda de una primera oportunidad profesional como analista de datos. Sigo formándome activamente en bases de datos.*
