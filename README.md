@@ -34,19 +34,24 @@
 
 
 ---
-
 ## 📁 Proyecto destacado
 
-[![PFB Yahoo Finance](https://github-readme-stats.vercel.app/api/pin/?username=1991Elsa&repo=PFB&theme=default&hide_border=true&description_lines_count=2)](https://github.com/1991Elsa/PFB)
+### 📊 **PFB Yahoo Finance** — *Análisis financiero aplicado al índice bursátil Nasdaq 100* 
 
-📊 **PFB Yahoo Finance** — *Análisis financiero aplicado al índice Nasdaq 100*  
-Desarrollamos una solución de análisis financiero en equipo, con enfoque en el procesamiento, segmentación y visualización de datos bursátiles.
-El proyecto incluye:
+![Portada del proyecto](https://github.com/TU_USUARIO/TU_REPO/ruta/a/la/imagen.png)
+
+Aplicación de técnicas de análisis  análisis financiero en equipo, con enfoque en el procesamiento, segmentación y visualización de datos bursátiles.
+
+
+ El proyecto incluye:
 
 - 🗂️ Web scraping y consumo de API de Yahoo Finance para la obtención de datos
 - 🛢️ Almacenamiento estructurado en base de datos MySQL
-- 🧠 Segmentación de empresas mediante clustering
+- 🧠 Segmentación de empresas mediante clustering con Scikit-learn
 - 📊 Visualización de insights clave con **Streamlit** y un informe en **Power BI**
+
+🔗 [Ver repositorio](https://github.com/1991Elsa/PFB)
+
 
 🔧 Tecnologías: Python, Selenium, BeautifulSoup, MySQL, Scikit-learn, Power BI, Streamlit
 
