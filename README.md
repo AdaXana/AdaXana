@@ -28,9 +28,10 @@
 
 ## 🧰 Tech Stack
 
-| 📊 **Análisis y Visualización** | 🐍 **Lenguajes y Librerías** | 🛢️ **Bases de Datos** | 🔧 **Herramientas** |
+| 📈 **Análisis y Visualización** | 🐍 **Lenguajes y Librerías** | 🛢️ **Bases de Datos** | 🔧 **Herramientas** |
 |:-------------------------------:|:-----------------------------:|:----------------------:|:--------------------:|
-| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) | ![Python](https://skillicons.dev/icons?i=python) ![R](https://skillicons.dev/icons?i=r) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black) | ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![VSCode](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white) |
+| ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white) |
+
 
 
 ---
@@ -38,9 +39,11 @@
 
 ### 📊 **PFB Yahoo Finance** — *Análisis financiero aplicado al índice bursátil Nasdaq 100* 
 
-![Portada del proyecto](https://github.com/TU_USUARIO/TU_REPO/ruta/a/la/imagen.png)
+![Portada del proyecto](https://raw.githubusercontent.com/1991Elsa/PFB/refs/heads/main/Portada_Streamlit_Nasdaq100.png)
 
-Aplicación de técnicas de análisis  análisis financiero en equipo, con enfoque en el procesamiento, segmentación y visualización de datos bursátiles.
+Aplicación de técnicas de análisis financiero desarrollada en equipo, con un enfoque integral en el tratamiento, segmentación y visualización de datos bursátiles.  
+El proyecto abarca todo el flujo de trabajo de un analista de datos: desde la extracción automatizada de información, hasta la generación de insights accionables mediante herramientas interactivas.
+
 
 
  El proyecto incluye:
@@ -50,7 +53,7 @@ Aplicación de técnicas de análisis  análisis financiero en equipo, con enfoq
 - 🧠 Segmentación de empresas mediante clustering con Scikit-learn
 - 📊 Visualización de insights clave con **Streamlit** y un informe en **Power BI**
 
-🔗 [Ver repositorio](https://github.com/1991Elsa/PFB)
+🔗 [Ver repositorio](https://github.com/AdaXana/PFB)
 
 
 🔧 Tecnologías: Python, Selenium, BeautifulSoup, MySQL, Scikit-learn, Power BI, Streamlit
