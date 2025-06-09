@@ -53,7 +53,7 @@ El proyecto abarca todo el flujo de trabajo de un analista de datos: desde la ex
 - 🧠 Segmentación de empresas mediante clustering con Scikit-learn
 - 📊 Visualización de insights clave con **Streamlit** y un informe en **Power BI**
 
-🔗 [Ver repositorio](https://github.com/AdaXana/PFB)
+🔗 [Ver repositorio](https://github.com/AdaXana/PFB_DataAnalyst)
 
 
 🔧 Tecnologías: Python, Selenium, BeautifulSoup, MySQL, Scikit-learn, Power BI, Streamlit
